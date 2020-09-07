@@ -1,7 +1,8 @@
 # ucore-os-2020
 * Tsinghua University Operating System (Fall 2020)
 * Timeline: 2020-09-01 -> 2020-12-31
-* main page: https://github.com/chyyuu/os_kernel_lab/tree/master
+* class page: https://github.com/chyyuu/os_kernel_lab/tree/master
+* My Notes in Notion.so: https://www.notion.so/hzhang413/2020-ca36632638cc4577a3a01a79d0ec7d08
 
 # Labs
 ## lab0: preparing
