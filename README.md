@@ -4,6 +4,11 @@
 * class page: https://github.com/chyyuu/os_kernel_lab/tree/master
 * lab instruction gitbook: https://chyyuu.gitbooks.io/ucore_os_docs/content/
 * My Notes in Notion.so: https://www.notion.so/hzhang413/2020-ca36632638cc4577a3a01a79d0ec7d08
+* 2020 RISC-V lecture notes: https://github.com/dramforever/os-lectures-build/releases
+
+# Classes
+* ucore: https://next.xuetangx.com/learn/THU08091000267/THU08091000267/4231154/video/6287033
+* rcore: https://next.xuetangx.com/learn/thu08091002729/thu08091002729/4231868/video/6354337
 
 # Labs
 ## lab0: preparing
