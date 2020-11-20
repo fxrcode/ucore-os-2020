@@ -4,7 +4,8 @@
 * class page: https://github.com/chyyuu/os_kernel_lab/tree/master
 * lab instruction gitbook: https://learningos.github.io/ucore_os_webdocs/ ~~https://chyyuu.gitbooks.io/ucore_os_docs/content/~~
 * My Notes in Notion.so: https://www.notion.so/hzhang413/2020-ca36632638cc4577a3a01a79d0ec7d08
-* 2020 RISC-V lecture notes: https://github.com/dramforever/os-lectures-build/releases
+* 2019 ucore lecture notes: https://github.com/computer-system-education/os-syllabi/tree/master/material/tsinghua-os-2019-spring
+* 2020 rcore RISC-V lecture notes: https://github.com/dramforever/os-lectures-build/releases
 
 # Classes
 * ucore: https://next.xuetangx.com/learn/THU08091000267/THU08091000267/4231154/video/6287033
