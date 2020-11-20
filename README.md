@@ -2,7 +2,7 @@
 * Tsinghua University Operating System (Fall 2020)
 * Timeline: 2020-10-01 -> 2020-12-31
 * class page: https://github.com/chyyuu/os_kernel_lab/tree/master
-* lab instruction gitbook: https://chyyuu.gitbooks.io/ucore_os_docs/content/
+* lab instruction gitbook: https://learningos.github.io/ucore_os_webdocs/ ~~https://chyyuu.gitbooks.io/ucore_os_docs/content/~~
 * My Notes in Notion.so: https://www.notion.so/hzhang413/2020-ca36632638cc4577a3a01a79d0ec7d08
 * 2020 RISC-V lecture notes: https://github.com/dramforever/os-lectures-build/releases
 
